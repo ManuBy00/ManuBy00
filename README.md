@@ -45,7 +45,7 @@ Ecosistema integral multi-cliente para la gestión y digitalización de barberí
 ### 📬 Conectemos
 
 <p align="left">
-  <a href="https://linkedin.com/in/tu-perfil" target="_blank">
+  <a href="[https://www.linkedin.com/feed/](https://www.linkedin.com/in/manuel-blancat-yuste-529324310/)" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:manuelblancat00@gmail.com">
