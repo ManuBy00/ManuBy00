@@ -1,5 +1,5 @@
 # ¡Hola! Soy Manuel Blancat 👋 
-### Full Stack & Mobile Developer
+### Software Developer
 
 Desarrollador especializado en **Java (Spring Boot)**, frontend reactivo con **Angular** y aplicaciones nativas Android con **Kotlin**.
 
